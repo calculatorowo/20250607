@@ -8,7 +8,7 @@
     <p><strong>姓名：</strong>周楷翔</p>
     <p><strong>Email：</strong>calculator9453@gmail.com</p>
     <p><strong>學歷：</strong>輔仁大學 統計資訊學系</p>
-    <p><strong>技能：</strong>Java、excel、SPSS</p>
+    <p><strong>技能：</strong>Java、Python、excel、SPSS、R</p>
     <p><strong>語言能力：</strong>中文（母語）、英文（尚可）、日文(較弱)</p>
   </div>
 
