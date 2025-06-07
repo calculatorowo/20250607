@@ -3,7 +3,6 @@
 <body>
 
   <h1>我的電子履歷</h1>
-<img src="IMG_7159(1).jpg" alt="大頭照" width="200">
   <div class="section">
     <h2>1. 個人經歷</h2>
     <p><strong>姓名：</strong>周楷翔</p>
