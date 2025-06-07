@@ -30,8 +30,6 @@
            <strong>透過windowbuilder計算機率（Java）</strong>：透過自身在大二一整年的所學搭配windowbuilder套件包，寫出了一個視窗化程式來分析並計算機率。
       </li>
       <li>
-
-    </ul>
   </div>
 
 </body>
