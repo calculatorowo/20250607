@@ -24,7 +24,7 @@
     <h2>3. 相關程式開發作品</h2>
     <ul>
       <li>
-        <strong>KNN 分類器（Java）</strong>：使用 Iris 資料集實作 KNN 演算法，支援 k 值調整與準確率分析。
+        <strong>1NN 分類器（Java）</strong>：使用 Iris 資料集實作 1NN 演算法。
       </li>
       <li>
            <strong>透過windowbuilder計算機率（Java）</strong>：透過自身在大二一整年的所學搭配windowbuilder套件包，寫出了一個視窗化程式來分析並計算機率。
